@@ -1,0 +1,4 @@
+name: HawkVips
+version: 1.0-SNAPSHOT
+main: me.fixeddev.hawkvips.HawkVips
+authors: [FixedDev]

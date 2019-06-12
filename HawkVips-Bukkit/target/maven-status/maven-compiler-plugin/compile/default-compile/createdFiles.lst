@@ -1,0 +1,7 @@
+me\fixeddev\hawkvips\commands\CrateCommands.class
+me\fixeddev\hawkvips\HawkVips.class
+me\fixeddev\hawkvips\storage\PlayerStorageImpl.class
+me\fixeddev\hawkvips\Config.class
+me\fixeddev\hawkvips\crate\CrateImpl.class
+me\fixeddev\hawkvips\crate\CrateManagerImpl.class
+me\fixeddev\hawkvips\storage\PlayerStorageManagerImpl.class

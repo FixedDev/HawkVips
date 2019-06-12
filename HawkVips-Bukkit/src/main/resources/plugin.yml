@@ -1,0 +1,4 @@
+name: HawkVips
+version: ${project.version}
+main: me.fixeddev.hawkvips.HawkVips
+authors: [FixedDev]

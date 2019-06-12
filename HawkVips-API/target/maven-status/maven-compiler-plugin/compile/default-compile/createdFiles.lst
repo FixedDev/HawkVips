@@ -1,0 +1,5 @@
+me\fixeddev\hawkvips\HawkVipsAPI.class
+me\fixeddev\hawkvips\storage\PlayerStorage.class
+me\fixeddev\hawkvips\crate\CrateManager.class
+me\fixeddev\hawkvips\storage\PlayerStorageManager.class
+me\fixeddev\hawkvips\crate\Crate.class
